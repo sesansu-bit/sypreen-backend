@@ -1,0 +1,18 @@
+{
+    "name": "sypreen-backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "\"seshansu\"",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.1",
+        "express": "^4.18.2"
+    },
+    "type": "commonjs",
+    "devDependencies": {},
+    "description": ""
+}
